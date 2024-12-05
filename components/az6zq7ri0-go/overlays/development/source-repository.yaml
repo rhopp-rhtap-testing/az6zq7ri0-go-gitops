@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: az6zq7ri0-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/az6zq7ri0-go
